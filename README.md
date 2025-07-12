@@ -1,6 +1,6 @@
-codsoft-task-2
+CodSoft-Task-2
 
-codsoft_landingpage
+CodSoft_LandingPage
 
 Learn to create columns and structure web content.
 
